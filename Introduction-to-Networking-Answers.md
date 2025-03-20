@@ -1,4 +1,9 @@
+
+An introduction to networking theory and basic networking tools…
+To view this room: https://tryhackme.com/room/introtonetworking
+
 Answers
+
 Task 2
 Which layer would choose to send data over TCP or UDP?
 4
